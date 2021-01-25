@@ -1,0 +1,37 @@
+.header {
+  display: flex;
+  justify-content: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.menu {
+  display: flex;
+  justify-content: center;
+}
+
+.searchBar {
+  display: flex;
+  justify-content: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.searchInput {
+  width: 250px;
+}
+
+.itemName {
+  text-transform: capitalize;
+  display: flex;
+  justify-content: center;
+}
+
+.binType {
+  display: flex;
+  justify-content: center;
+}
+
+.wasteRoom {
+  padding: 20px;
+}
